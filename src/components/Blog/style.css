@@ -1,0 +1,11 @@
+.wrapper-blog {
+    margin-top: 126px;
+    background: url('../../images/vector-grey-back.svg') center center no-repeat;
+    height: 100vh;
+}
+.m-75 {
+    padding-bottom: 75px;
+}
+.m-39 {
+    padding-bottom: 39px;
+}

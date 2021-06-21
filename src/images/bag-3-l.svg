@@ -1,0 +1,31 @@
+<svg width="1918" height="300" viewBox="0 0 1918 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1918" height="300">
+<rect width="1918" height="300" fill="#6A4FE4"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M2335.83 545.978C2378.69 408.722 2293.54 248.779 2145.42 188.413C2065.35 155.797 1983.35 159.175 1918.13 190.593C1854.25 221.411 1776.01 231.832 1712.14 192.823C1569.28 105.664 1451.86 198.883 1408.06 321.506C1361 453.003 1456.13 579.672 1559.01 654.649C1681.55 743.937 1556.86 934.676 1725.52 1022.05C1866.69 1095.13 1930.81 929.151 1976.68 782.913C1992.56 732.37 2034.78 703.843 2083.01 707.532C2198.1 716.158 2301.9 654.355 2335.83 545.978Z" fill="url(#paint0_linear)" fill-opacity="0.5"/>
+<path d="M593.827 -8.14626C636.693 -145.403 551.541 -305.345 403.419 -365.711C323.349 -398.328 241.346 -394.95 176.129 -363.532C112.25 -332.713 34.0063 -322.293 -29.8573 -361.302C-172.724 -448.461 -290.139 -355.241 -333.944 -232.619C-380.998 -101.121 -285.868 25.5471 -182.993 100.524C-60.4522 189.813 -185.144 380.552 -16.4816 467.929C124.692 541.01 188.809 375.026 234.675 228.788C250.564 178.246 292.784 149.719 341.014 153.407C456.104 162.034 559.898 100.23 593.827 -8.14626Z" fill="url(#paint1_linear)" fill-opacity="0.4"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="1903.18" y1="282.655" x2="1592.03" y2="1334.57" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0002E9" stop-opacity="0.5"/>
+<stop offset="0.1087" stop-color="#430ACC" stop-opacity="0.6107"/>
+<stop offset="0.2477" stop-color="#9314AA" stop-opacity="0.7521"/>
+<stop offset="0.3622" stop-color="#CD1B90" stop-opacity="0.8687"/>
+<stop offset="0.4464" stop-color="#F11F81" stop-opacity="0.9544"/>
+<stop offset="0.4912" stop-color="#FF217B"/>
+<stop offset="0.7933" stop-color="#FD9946"/>
+<stop offset="1" stop-color="#FCEE21"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="161.183" y1="-271.47" x2="-149.965" y2="780.448" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0002E9" stop-opacity="0.5"/>
+<stop offset="0.1087" stop-color="#430ACC" stop-opacity="0.6107"/>
+<stop offset="0.2477" stop-color="#9314AA" stop-opacity="0.7521"/>
+<stop offset="0.3622" stop-color="#CD1B90" stop-opacity="0.8687"/>
+<stop offset="0.4464" stop-color="#F11F81" stop-opacity="0.9544"/>
+<stop offset="0.4912" stop-color="#FF217B"/>
+<stop offset="0.7933" stop-color="#FD9946"/>
+<stop offset="1" stop-color="#FCEE21"/>
+</linearGradient>
+</defs>
+</svg>

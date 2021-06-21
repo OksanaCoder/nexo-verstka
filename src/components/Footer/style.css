@@ -1,0 +1,14 @@
+.footer-wrapper {
+    padding-bottom: 71px;
+}
+.mt-65 {
+    margin-top: 65px;
+}
+.link-web {
+    height: 19px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: lowercase;
+    color: #37ABE6;
+}

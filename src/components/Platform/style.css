@@ -1,0 +1,37 @@
+.platform-wrapper {
+    /* background: #E5E5E5; */
+    padding-top: 218px;
+    height: 130vh;
+}
+.square {
+    width: 550px;
+    height: 300px;
+    background: #A4A4F7;
+}
+.square-text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 70px;
+    color: #474747;
+}
+.text-small-square {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #474747;
+}
+.m-86 {
+    margin-top: 86px;
+}
+.m-52 {
+    margin-top: 52px;
+}
+
+@media (max-width: 800px) {
+    .square {
+        width: auto;
+        height: 300px;
+    }
+}

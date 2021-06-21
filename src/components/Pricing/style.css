@@ -1,0 +1,116 @@
+.pricing-wrapper {
+    margin-top: 218px;
+    background: url('../../images/vector-grey.svg') center center no-repeat;
+    height: 100vh;
+    background-size: contain;
+    margin-bottom: 101px;
+}
+.h5-pricing {
+    width: 696px;
+    height: 90px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    color: #474747;
+    margin: auto;
+}
+.small-text-pricing {
+    margin: auto;
+    width: 755px;
+    height: 102px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #474747;
+}
+.m-15 {
+    margin-top: 15px;
+}
+.box-price {
+    width: 555px;
+    height: 724px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.list-pricing li::before {
+    content: url('../../images/vector-check.svg');
+    margin-right: 24px;
+} 
+.box-price-right {
+    width: 555px;
+    height: 724px;
+    background: #6A4FE4;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.list-pricing-right li::before {
+    content: url('../../images/vector-check-white.svg');
+    margin-right: 24px;
+}
+.m-33 {
+    margin-top: 33px;
+}
+.m-24-54 {
+    width: 333px;
+    height: 70px;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 70px;
+    color: #474747;
+    padding: 24px 0 0 59px;
+}
+.price {
+    width: 333px;
+    height: 70px;
+    font-weight: 300;
+    font-size: 96px;
+    line-height: 70px;
+    color: #474747;
+    padding: 20px 0 0 59px;
+}
+.list-pricing,
+.list-pricing-right {
+    margin-top: 52px;
+    padding-left: 94px;
+    height: 430px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 35px;
+    color: #474747;
+}
+.list-pricing-right {
+    color: #fff;
+}
+.inactive-pricing {
+    background: none !important;
+    border-radius: 2px;
+    border: 1px solid #fff !important;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    width: 215px;
+    height: 55px;
+    border-radius: 2px;
+    text-align: center;
+    letter-spacing: 0.0357143em;
+    text-transform: capitalize;
+    box-shadow: none !important;
+}
+
+@media(max-width: 700px) {
+    .pricing-wrapper {
+        background-size: contain;
+    }
+    .price {
+        font-size: 30px;
+    }
+    .h5-pricing, 
+    .small-text-pricing {
+        width: auto;
+    }
+    .h5-pricing{
+        margin-bottom: 60px;
+    }
+}

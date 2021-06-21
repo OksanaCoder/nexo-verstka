@@ -1,0 +1,23 @@
+.h5-quote {
+    margin-bottom: 5px;
+    height: 70px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 70px;
+    color: #474747;
+}
+.h5-info {
+    height: 102px;
+    left: 779px;
+    top: 2002px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #474747;
+}
+.wrapper-quote {
+    padding-top: 143px;
+    padding-bottom: 121px;
+}

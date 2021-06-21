@@ -1,0 +1,51 @@
+.wrapper-get-started {
+    background: url('../../images/bag-3-l.svg') center center no-repeat;
+    background-color: #6A4FE4;
+    background-size: cover;
+}
+.m-70-5 {
+    margin-top: 70px;
+    margin-bottom: 5px;
+    height: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 70px;
+    color: #FFFFFF;
+}
+.m-53 {
+    margin-bottom: 53px;
+    width: 703px;
+    height: 102px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.inactive-transparent {
+    background: none !important;
+    border-radius: 2px;
+    border: 1px solid #fff !important;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    
+    width: 215px;
+    height: 55px;
+    border-radius: 2px;
+    
+    text-align: center;
+    letter-spacing: 0.0357143em;
+    text-transform: capitalize;
+    box-shadow: none !important;
+}
+@media(max-width: 700px) {
+    .m-53 {
+        width: auto;
+    }
+    .wrapper-get-started {
+        padding-bottom: 90px;
+    }
+}

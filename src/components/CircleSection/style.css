@@ -1,0 +1,23 @@
+.p-common {
+    width: 318px;
+    height: 102px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #474747;
+    margin-top: 5px;
+}
+.m-126 {
+    margin-top: 126px ;
+    margin-bottom: 126px ;
+}
+.h5-common {
+    width: 333px;
+    height: 70px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 70px;
+    color: #474747;
+}
